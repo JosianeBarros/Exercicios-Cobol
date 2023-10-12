@@ -1,3 +1,3 @@
-# Exercícios em Cobol
+# Exercícios em COBOL
 
-Lista de exercícios em Cobol.
+Lista de exercícios em COBOL.
